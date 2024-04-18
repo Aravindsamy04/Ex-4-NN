@@ -168,8 +168,8 @@ print(classification_report(testing_b,predicted_values))
 ```
 
 <H3>Output:</H3>
+![Uploading image.png…]()
 
-![image](https://github.com/Aravindsamy04/Ex-4-NN/assets/113497037/17199c45-c317-4d94-8ad1-822fad163f01)
 ![image](https://github.com/Aravindsamy04/Ex-4-NN/assets/113497037/d3e97503-ecbe-4ba2-900e-06d5a95a5b93)
 
 
